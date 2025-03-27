@@ -11,7 +11,7 @@
 3. Вывод отсортированной последовательности  
 
 **Типы данных:**
-- 🔑 **Ключ**: почтовые индексы (6 цифр, например `123456`)  
+- 🔑 **Ключ**: почтовые индексы  
 - 📝 **Значение**: строки переменной длины (до 2048 символов)  
 
 ---
@@ -25,13 +25,13 @@
 
 ## ✨ Пример
 **Входные данные:**
-000000 xGfxrxGGxrxMMMMfrrrG
-999999 xGfxrxGGxrxMMMMfrrr
-000000 xGfxrxGGxrxMMMMfrr
-999999 xGfxrxGGxrxMMMMfr
+`000000<TAB>xGfxrxGGxrxMMMMfrrrG`
+`999999<TAB>xGfxrxGGxrxMMMMfrrr`
+`000000<TAB>xGfxrxGGxrxMMMMfrr`
+`999999<TAB>xGfxrxGGxrxMMMMfr`
 
 **Выходные данные:**
-000000 xGfxrxGGxrxMMMMfrrrG
-000000 xGfxrxGGxrxMMMMfrr
-999999 xGfxrxGGxrxMMMMfrrr
-999999 xGfxrxGGxrxMMMMfr
+`000000<TAB>xGfxrxGGxrxMMMMfrrrG`
+`000000<TAB>xGfxrxGGxrxMMMMfrr`
+`999999<TAB>xGfxrxGGxrxMMMMfrrr`
+`999999<TAB>xGfxrxGGxrxMMMMfr`
