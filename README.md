@@ -27,6 +27,7 @@
 
 ## ✨ Пример
 **Входные данные:**
+
  `000000<TAB>xGfxrxGGxrxMMMMfrrrG`
   
  `999999<TAB>xGfxrxGGxrxMMMMfrrr`
@@ -36,6 +37,7 @@
  `999999<TAB>xGfxrxGGxrxMMMMfr`
 
 **Выходные данные:**
+
  `000000<TAB>xGfxrxGGxrxMMMMfrrrG`
  
  `000000<TAB>xGfxrxGGxrxMMMMfrr`
