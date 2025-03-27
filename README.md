@@ -28,11 +28,11 @@
 ## ✨ Пример
 **Входные данные:**
 
- 000000<TAB>xGfxrxGGxrxMMMMfrrrG
+ 000000    xGfxrxGGxrxMMMMfrrrG
   
- `999999<TAB>xGfxrxGGxrxMMMMfrrr`
+ 999999    xGfxrxGGxrxMMMMfrrr
  
- `000000<TAB>xGfxrxGGxrxMMMMfrr`
+ `000000    xGfxrxGGxrxMMMMfrr`
  
  `999999<TAB>xGfxrxGGxrxMMMMfr`
 
