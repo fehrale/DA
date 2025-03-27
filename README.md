@@ -23,15 +23,17 @@
 **Вывод:**  
 Выходные данные состоят из тех же строк, что и входные, за исключением пустых и порядка следования.
 
+---
+
 ## ✨ Пример
 **Входные данные:**
-`000000<TAB>xGfxrxGGxrxMMMMfrrrG`
-`999999<TAB>xGfxrxGGxrxMMMMfrrr`
-`000000<TAB>xGfxrxGGxrxMMMMfrr`
-`999999<TAB>xGfxrxGGxrxMMMMfr`
+- `000000<TAB>xGfxrxGGxrxMMMMfrrrG`
+- `999999<TAB>xGfxrxGGxrxMMMMfrrr`
+- `000000<TAB>xGfxrxGGxrxMMMMfrr`
+- `999999<TAB>xGfxrxGGxrxMMMMfr`
 
 **Выходные данные:**
-`000000<TAB>xGfxrxGGxrxMMMMfrrrG`
-`000000<TAB>xGfxrxGGxrxMMMMfrr`
-`999999<TAB>xGfxrxGGxrxMMMMfrrr`
-`999999<TAB>xGfxrxGGxrxMMMMfr`
+- `000000<TAB>xGfxrxGGxrxMMMMfrrrG`
+- `000000<TAB>xGfxrxGGxrxMMMMfrr`
+- `999999<TAB>xGfxrxGGxrxMMMMfrrr`
+- `999999<TAB>xGfxrxGGxrxMMMMfr`
